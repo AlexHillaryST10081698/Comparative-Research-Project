@@ -1,4 +1,6 @@
-# Research application Model
+# Research Project
+# this project contains to seperate models which is used to draw comparisson
+# the 2 seperate models is a Machine Learning XGboost model and a Deep Lerning RNN model
 
 # The project was created in Jupiter Notebook using version 6.5.4
 
